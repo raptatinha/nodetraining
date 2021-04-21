@@ -12,10 +12,16 @@ The app will have a database connection and HTTP protocol and websocket;
 ## 🧩 Technologies
 Node 14
 Yarn
-Insomnia
+Insomnia/Postman
+Express
 
-# Class 1
-## Class Summary
+# 👩🏽‍🏫 Classes
+
+- [Class 1 Summary](#class-1)
+- [Class 2 Summary](#class-2)
+- [Questions](#questions)
+
+## Class 1
 Node was invented to solve inability to see the progress bar on flickr while uploading a file.
 Javascript was the best tool available due to its non-blocking IO feature.
 
@@ -63,4 +69,9 @@ class addAdmin {
 - create a new route into server.ts
 - the routes can have "/" or "/bla"
 
+## Class 2
 
+
+
+## 🤔 Questions
+- What's the diff between express and non express
